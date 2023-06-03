@@ -1,6 +1,6 @@
 # Simple Bitcoin wallet UI design
 
-This is a simple UI design for a Bitcoin wallet produced by the Balsamiq software.Above you can see the digital prototype in pdf. 
+This is a simple UI design for a Bitcoin wallet produced by the Balsamiq software.Above you can see the interactive digital prototype by links  in pdf. 
 
 #### Design Critera
 
